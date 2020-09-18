@@ -1,0 +1,16 @@
+html {
+background: linear-gradient(270deg, lightblue, lightgreen, cyan, violet);
+  color: white;
+  font-family:"Arial", ;
+}
+nav {
+  padding: 20px;
+  margin: 10px;
+  background: gray;
+  display: block;
+  font-family:"Open Sans", arial, serif;
+}
+nav :hover {
+  background-color: white;
+  opacity: 0.5;
+}
